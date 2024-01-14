@@ -1,4 +1,4 @@
-package carGame.domain
+package racingcar.domain
 
 class Car(val name: CarName, val position: Int) {
     fun move(): Car {

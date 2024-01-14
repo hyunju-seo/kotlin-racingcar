@@ -1,7 +1,7 @@
-package carGame.view
+package racingcar.view
 
-import carGame.domain.Car
-import carGame.domain.Cars
+import racingcar.domain.Car
+import racingcar.domain.Cars
 
 object OutputView {
     fun printHistory(history: List<Cars>) {

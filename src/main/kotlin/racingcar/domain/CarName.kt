@@ -1,4 +1,4 @@
-package carGame.domain
+package racingcar.domain
 
 @JvmInline
 value class CarName(val value: String) {

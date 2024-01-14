@@ -1,4 +1,4 @@
-package carGame.domain
+package racingcar.domain
 
 class Cars(val cars: List<Car>) {
     fun moveBy(movable: () -> Boolean): Cars {

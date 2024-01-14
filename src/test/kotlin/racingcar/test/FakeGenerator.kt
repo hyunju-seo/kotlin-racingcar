@@ -1,8 +1,8 @@
-package carGame.test
+package racingcar.test
 
-import carGame.domain.Car
-import carGame.domain.CarName
-import carGame.domain.Cars
+import racingcar.domain.Car
+import racingcar.domain.CarName
+import racingcar.domain.Cars
 
 object FakeGenerator {
     fun generateCars(size: Int, position: Int = 0): Cars {

@@ -1,6 +1,6 @@
-package carGame.domain
+package racingcar.domain
 
-import carGame.test.FakeGenerator
+import racingcar.test.FakeGenerator
 import io.kotest.core.spec.style.BehaviorSpec
 import io.kotest.matchers.collections.shouldContainExactly
 

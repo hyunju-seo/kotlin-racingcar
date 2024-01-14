@@ -1,8 +1,8 @@
-package carGame
+package racingcar
 
-import carGame.domain.CarGame
-import carGame.view.InputView
-import carGame.view.OutputView
+import racingcar.domain.CarGame
+import racingcar.view.InputView
+import racingcar.view.OutputView
 
 fun main() {
     val carNames = InputView.getCarNames()

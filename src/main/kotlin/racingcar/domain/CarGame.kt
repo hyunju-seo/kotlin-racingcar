@@ -1,6 +1,6 @@
-package carGame.domain
+package racingcar.domain
 
-import carGame.domain.strategy.MoveStrategy
+import racingcar.domain.strategy.MoveStrategy
 
 class CarGame(private val moveStrategy: MoveStrategy) {
     fun play(carNames: List<CarName>, tryCount: Int): GameResult {

@@ -1,4 +1,4 @@
-package carGame.domain
+package racingcar.domain
 
 class GameResult(
     val history: List<Cars>

@@ -1,6 +1,6 @@
-package carGame.view
+package racingcar.view
 
-import carGame.domain.CarName
+import racingcar.domain.CarName
 
 object InputView {
     fun getCarNames(): List<CarName> {

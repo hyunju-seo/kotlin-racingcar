@@ -1,4 +1,4 @@
-package carGame.test
+package racingcar.test
 
 object TestUtil {
     fun generateRandomString(size: Int): String {
